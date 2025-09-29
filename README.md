@@ -1,1 +1,1 @@
-# Wikipedia-Trust-
+# Wikipedia-and-Trust
