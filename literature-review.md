@@ -2,11 +2,15 @@
 
 
 1. **Implications of generative AI for knowledge integrity on Wikipedia**
-Ford, Heather; Davis Michael (2024). ["Implications of generative AI for knowledge integrity on Wikipedia"](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Implications+of+generative+AI+for+knowledge+integrity+on+Wikipedia&btnG=) | [pdf](https://wikiworkshop.org/2025/paper/wikiworkshop_2025_paper_54.pdf) 
+Ford, Heather; Davis Michael (2024). ["Implications of generative AI for knowledge integrity on Wikipedia"](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Implications+of+generative+AI+for+knowledge+integrity+on+Wikipedia&btnG=) | [pdf](https://wikiworkshop.org/2025/paper/wikiworkshop_2025_paper_54.pdf)
 
-3. **Will large language models diminish the reliance on Wikipedia?**
+This article directly connects to our research topic because it examines how AI challenges Wikipedia's knowledge integrity. The methods used in this research include analyzing discussion forums, blogs, and community debates, and conducting interviews with Wikimedians between July 2022 and July 2023. Some benefits found were that many editors found AI tools helpful in facilitating tasks such as assisting with drafting articles, summarizing sources, and translating. However, internal risks arise, such as the proliferation of low-quality/AI-generated content that is difficult to fact-check. Maintaining verifiability and connection between claims and sources becomes increasingly difficult when content is AI-generated. 
+
+
+2. **Will large language models diminish the reliance on Wikipedia?**
 Wagner, Christian; Jiang, Lin (2025) ["Death by AI: Will large language models diminish Wikipedia?"](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Death+by+AI%3A+Will+large+language+models+diminish+Wikipedia%3F&btnG=) | [pdf](https://asistdl.onlinelibrary.wiley.com/doi/epdf/10.1002/asi.24975) 
 
+This article supports our research by directly examining how AI weakens Wikipedia's relevance. The article's main argument is that generative AI and LLMs threaten Wikipedia's value because they will reduce human contributors from editing, as they will have less incentive to contribute. A feedback model is used to show how AI disrupts the relationship between readers and contributors, as AI systems are overpowering human participation. Since W directly depends on contributors contributing without any direct reward (known as "selfish altruism"), this is weakened with AI. This directly challenges the future of W, as AI-generated content can overpower, and content will degrade as fewer contributors check/update information.
 
 5. **Artificial Intelligence, Trust, and Relevance of Online Knowledge**
    
