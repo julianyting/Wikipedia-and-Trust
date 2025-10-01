@@ -1,6 +1,6 @@
 # Research Articles 
 
-3. **"An endangered species: how LLMs threaten Wikipedia’s sustainability."
+3. **"An endangered species: how LLMs threaten Wikipedia’s sustainability."**
 Vetter, Matthew A.; Jiang, Jialei; McDowell, Zachary J. (2025).
 ["An endangered species: how LLMs threaten Wikipedia’s sustainability."](https://link.springer.com/article/10.1007/s00146-025-02199-9)
 [Google Scholar](https://scholar.google.com/scholar_lookup?title=An+endangered+species:+how+LLMs+threaten+Wikipedia%E2%80%99s+sustainability&author=Vetter&author=Jiang&author=McDowell&publication_year=2025) | [pdf](https://link.springer.com/content/pdf/10.1007/s00146-025-02199-9.pdf)  
