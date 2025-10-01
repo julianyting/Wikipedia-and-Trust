@@ -1,13 +1,19 @@
 # Research Articles 
 
-3. **"An endangered species: how LLMs threaten Wikipedia’s sustainability."**
+
+1. **Implications of generative AI for knowledge integrity on Wikipedia**
+
+
+2. **Will large language models diminish the reliance on Wikipedia?**
+
+3. **Artificial Intelligence, Trust, and Relevance of Online Knowledge**
    
 Vetter, Matthew A.; Jiang, Jialei; McDowell, Zachary J. (2025).
 ["An endangered species: how LLMs threaten Wikipedia’s sustainability."](https://link.springer.com/article/10.1007/s00146-025-02199-9)
 [Google Scholar](https://scholar.google.com/scholar_lookup?title=An+endangered+species:+how+LLMs+threaten+Wikipedia%E2%80%99s+sustainability&author=Vetter&author=Jiang&author=McDowell&publication_year=2025) | [pdf](https://link.springer.com/content/pdf/10.1007/s00146-025-02199-9.pdf)  
 This article connects to our main question because it addresses both trust and relevance. The authors point out that AI systems often pull from Wikipedia without giving much credit, which raises the question about whether people can really trust how that information is being used. The article also talks about sustainability. If people stop going to Wikipedia and just use AI instead, fewer people will contribute and the platform could lose what makes it special as a community-driven project. What’s especially helpful about this article is that it doesn’t just focus on problems happening right now, it also warns about what could happen in the future and suggests ways to keep Wikipedia both trustworthy and relevant.
 
-5. **"Research citations building trust in Wikipedia: Results from a survey of published authors.**
+4. **Perceived Trustworthiness of Wikipedia Pages**
 
 Areia, Carlos; Burton, Kath; Taylor, Mike; Watkinson, Charles. (2025).
 ["Research citations building trust in Wikipedia: Results from a survey of published authors."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320334)
