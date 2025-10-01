@@ -44,3 +44,5 @@ In the new world of AI and technology, many wonder how reliable internet sources
 
 The prototype finds a random Wikipedia article and returns its name, the amount of sources it has, and the amount of revisions it had. It then outputs the text in HTML format of the article.
 
+ADD sentiment analysis
+
