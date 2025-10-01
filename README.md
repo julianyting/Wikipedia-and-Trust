@@ -13,18 +13,18 @@ In the new world of AI and technology, many wonder how reliable internet sources
 
 ## Research Questions
 1. How does Wikipedia sustain trust in its content despite being open for anyone to edit?
-Features like citations, page protection, and talk pages all help. Unlike AI tools, Wikipedia makes the editing process visible—users can see who contributed, when changes happened, and why.
+  Features like citations, page protection, and talk pages all help. Unlike AI tools, Wikipedia makes the editing process visible—users can see who contributed, when changes happened, and why.
 
 2. In what ways does Wikipedia still have advantages over AI-generated content?
 Transparency: users can check edit histories, see talk page debates, and review citations.
-Accountability: edits are often tied to specific contributors.
+  Accountability: edits are often tied to specific contributors.
 These features give Wikipedia a level of credibility that AI doesn't because wikipedia articles have citations and discussion which AI doesn't have or often times their citations or links are broken/incorrect.
 
 3. How might Wikipedia adapt in the AI era to remain sustainable and trustworthy?
-It could use AI as a tool—for example, to help flag unreliable sources or suggest citations. At the same time, it could highlight its human-centered editing model, showing how real people debate, collaborate, and verify information.
+  It could use AI as a tool—for example, to help flag unreliable sources or suggest citations. At the same time, it could highlight its human-centered editing model, showing how real people debate, collaborate, and verify information.
 
 4. Why are human contributors still so important for Wikipedia?
-Without regular users checking and updating content, Wikipedia could lose accuracy and relevance. The platform might need new strategies (like recognition programs or partnerships with schools) to keep people motivated to contribute.
+  Without regular users checking and updating content, Wikipedia could lose accuracy and relevance. The platform might need new strategies (like recognition programs or partnerships with schools) to keep people motivated to contribute.
 
 
 ## Methodology
