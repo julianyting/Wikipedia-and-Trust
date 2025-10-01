@@ -11,7 +11,7 @@
 
 ## Literature Review
 
-
+[Research Articles](https://github.com/awohoa/Wikipedia-and-Trust/blob/main/literature-review.md)
 
 ## Abstract
 
