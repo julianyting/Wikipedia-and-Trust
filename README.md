@@ -45,8 +45,17 @@ The prototype finds a random Wikipedia article and returns its name, the amount 
 
 ADD sentiment analysis, find question that fits program
 
+
 ## Research Question Week 7
 Question: Does the number of revisions to an article make an article more trustworthy?
+
 #### Methodology
-Use Wikipedia API to retrieve how many revisions were made to the article
+Use the Wikipedia API to retrieve the revision history for a set of articles.
+Record the total number of revisions for each article.
+Collect additional metadata such as:
+- Article length (in bytes or word count)
+- Number of unique contributors
+- Date of creation and most recent update
+Compare the revision counts with existing Wikipedia quality or trust indicators, such as featured or good article status (available through API properties).
+Analyze whether articles with more revisions tend to be higher quality or more trustworthy, based on these indicators.
 
