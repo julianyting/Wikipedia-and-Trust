@@ -39,10 +39,14 @@ In the new world of AI and technology, many wonder how reliable internet sources
 3. Finally, we will compare our findings with prior research on Wikipedia governance, online trust, and AI’s impact on collaborative knowledge production.
 
 
-
 ## The Prototype Description
 
 The prototype finds a random Wikipedia article and returns its name, the amount of sources it has, and the amount of revisions it had. It then outputs the text in HTML format of the article.
 
 ADD sentiment analysis, find question that fits program
+
+## Research Question Week 7
+Question: Does the number of revisions to an article make an article more trustworthy?
+# Methodology
+Use Wikipedia API to retrieve how many revisions were made to the article
 
