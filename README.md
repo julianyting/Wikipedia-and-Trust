@@ -47,6 +47,6 @@ ADD sentiment analysis, find question that fits program
 
 ## Research Question Week 7
 Question: Does the number of revisions to an article make an article more trustworthy?
-# Methodology
+#### Methodology
 Use Wikipedia API to retrieve how many revisions were made to the article
 
