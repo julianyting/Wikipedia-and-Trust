@@ -62,15 +62,15 @@ Analyze whether articles with more revisions tend to be higher quality or more t
 
 ## Explain how you are going to use the results of the program to answer your question
 Our program will collect and analyze data from random Wikipedia articles using the Wikipedia API. Specifically, it will retrieve the number of revisions, the number of sources, and the HTML text of each article. This data will help us evaluate whether a higher number of revisions correlates with greater article trustworthiness.  
-<br><br>
+<br>
 Revision Analysis:  
 We will record how many revisions each article has.
 Articles with frequent revisions may indicate active engagement by the community, suggesting that the information is regularly checked and updated.  
-<br><br>
+<br>
 Combining the Data:  
 By combining revision counts, source counts, and sentiment results, we can identify patterns such as:
 Articles with more revisions and balanced sentiment being more trustworthy.
 Articles with fewer sources or polarized sentiment being less reliable or more controversial.  
-<br><br>
+<br>
 Answering the Research Question:  
 If our analysis shows that highly revised articles align with Wikipedia’s top-rated quality categories and contain balanced or neutral sentiment, it would support the idea that active community editing improves reliability. Conversely, if more revisions are found on low-quality or highly polarized pages, it may suggest that frequent editing alone doesn’t guarantee trustworthiness.
