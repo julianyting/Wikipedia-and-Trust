@@ -14,7 +14,7 @@ print("article " + outp["query"]["pages"][0]["title"])
 print("date of last revision " + (str)((outp["query"]["pages"][0]["revisions"][0]["timestamp"])))
 print("amount of revisions " + (str)(len(outp["query"]["pages"][0]["revisions"])))
 print("number of contributors " + (str)(len(outp["query"]["pages"][0]["contributors"])))
-print("number of charactors in the text " + (str)(len(outp["query"]["pages"][0]["extract"])))
+print("number of characters in the text " + (str)(len(outp["query"]["pages"][0]["extract"])))
 if "extlinks" in outp["query"]["pages"][0]:
     print("amount of sources " + (str)(len(outp["query"]["pages"][0]["extlinks"])))
 else:
