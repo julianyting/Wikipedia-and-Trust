@@ -65,6 +65,8 @@ Our program will collect and analyze data from random Wikipedia articles using t
 #### Revision Analysis:  
 We will record how many revisions each article has.
 Articles with frequent revisions may indicate active engagement by the community, suggesting that the information is regularly checked and updated.  
+#Instructions:
+run: python3 week7.py
 #### Combining the Data:  
 By combining revision counts, source counts, and sentiment results, we can identify patterns such as:
 Articles with more revisions and balanced sentiment being more trustworthy.
