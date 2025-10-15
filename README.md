@@ -59,6 +59,9 @@ Collect additional metadata such as:
 Compare the revision counts with existing Wikipedia quality or trust indicators, such as featured or good article status (available through API properties).
 Analyze whether articles with more revisions tend to be higher quality or more trustworthy, based on these indicators.
 
+Instructions:
+
+python3 week7.py
 
 ## Explain how you are going to use the results of the program to answer your question
 Our program will collect and analyze data from random Wikipedia articles using the Wikipedia API. Specifically, it will retrieve the number of revisions, the number of sources, and the HTML text of each article. This data will help us evaluate whether a higher number of revisions correlates with greater article trustworthiness.  
