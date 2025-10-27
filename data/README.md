@@ -1,1 +1,1 @@
-This file will contain datasets
+This folder will contain datasets and data files
